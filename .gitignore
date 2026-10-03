@@ -1,0 +1,5 @@
+release/FacturasSAT_app.exe
+release/version.json
+*.exe
+*.tmp
+*.log
